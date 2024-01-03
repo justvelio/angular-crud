@@ -1,0 +1,11 @@
+mat-toolbar {
+    background: linear-gradient(to right, #30cfd0 0%, #330867 100%);
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .oneB {
+    right: 1%;
+  }

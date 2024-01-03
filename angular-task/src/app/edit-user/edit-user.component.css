@@ -1,0 +1,22 @@
+.inputs {
+    display: flex;
+    gap: 12px;
+}
+
+.content {
+    padding-top: 10px;
+}
+
+.form-table {
+    align-items: center;
+    margin: 4%;
+}
+
+.btn {
+    padding-top: 10px;
+}
+
+.h {
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,0 +1,41 @@
+<div class="table-form">
+  <h1 class="h">Add User Form</h1>
+  <form [formGroup]="addForm" (ngSubmit)="onFormSubmit()">
+    <div class="content">
+      <div class="inputs">
+        <mat-form-field appearance="outline">
+          <mat-label>First Name</mat-label>
+          <input
+            matInput
+            type="text"
+            placeholder="Jon"
+            formControlName="firstName"
+          />
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+          <mat-label>Last Name</mat-label>
+          <input
+            matInput
+            type="text"
+            placeholder="Jones"
+            formControlName="lastName"
+          />
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+          <mat-label>Email</mat-label>
+          <input
+            matInput
+            type="email"
+            name="email"
+            placeholder="jon@jones.com"
+            formControlName="email"
+          />
+        </mat-form-field>
+      </div>
+    </div>
+    <div>
+      <button mat-raised-button color="primary" type="submit">Save</button>
+      <button mat-raised-button type="button" routerLink="/">Cancel</button>
+    </div>
+  </form>
+</div>
