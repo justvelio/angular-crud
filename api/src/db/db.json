@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "firstName": "First",
+      "lastName": "User",
+      "email": "purvi-user@mail.bg",
+      "id": "0865bc60-73ea-11ed-9feb-7bb0284a7686"
+    },
+    {
+      "firstName": "Second",
+      "lastName": "User",
+      "email": "vtori-user@mail.bg",
+      "id": "12faa0f0-73ea-11ed-ad94-3316dda4523a"
+    },
+    {
+      "id": "18bb4120-73ea-11ed-bf3c-5bbc5a8bf556",
+      "email": "third-user@mail.com",
+      "firstName": "Third",
+      "lastName": "User"
+    },
+    {
+      "id": "25c2d360-73ea-11ed-b862-63fe0294cd6a",
+      "email": "fourth-user@mail.com",
+      "firstName": "Fourth",
+      "lastName": "User"
+    },
+    {
+      "id": "25c2d360-73ea-11ed-b862-63fe0294cd6a",
+      "email": "fifth-user@mail.com",
+      "firstName": "Fifth",
+      "lastName": "User"
+    },
+    {
+      "id": "36bc8760-73ea-11ed-b9cc-1d33f25946af",
+      "email": "seventh-user@mail.com",
+      "firstName": "Seventh",
+      "lastName": "User"
+    },
+    {
+      "id": "3c52bc30-73ea-11ed-9635-7d848cd70208",
+      "email": "eighth-user@mail.com",
+      "firstName": "Eighth",
+      "lastName": "User"
+    },
+    {
+      "id": "4372ec60-73ea-11ed-a8b6-61aedfdd2bf0",
+      "email": "ninth-user@mail.com",
+      "firstName": "Ninth",
+      "lastName": "User"
+    },
+    {
+      "id": "48a5cb80-73ea-11ed-851f-739e94278234",
+      "email": "tenth-user@mail.com",
+      "firstName": "Tenth",
+      "lastName": "User"
+    },
+    {
+      "firstName": "Second222",
+      "lastName": "User222",
+      "email": "second-user@mail.com",
+      "id": "wcyXtrG"
+    },
+    {
+      "firstName": "Velislav",
+      "lastName": "Kostadinov",
+      "email": "velislav.kostadinov222@gmail.com",
+      "id": "Q_XSSTD"
+    },
+    {
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@mail.bg",
+      "id": "3bXrxnH"
+    },
+    {
+      "firstName": "Testing",
+      "lastName": "Routing",
+      "email": "route@test.com",
+      "id": "ATAHp-l"
+    },
+    {
+      "firstName": "Server",
+      "lastName": "Test Srv",
+      "email": "final@final.com",
+      "id": "EqOcdg7"
+    },
+    {
+      "firstName": "Json",
+      "lastName": "Server",
+      "email": "server@json.com",
+      "id": "36zwCG-"
+    }
+  ]
+}
