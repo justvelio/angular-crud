@@ -16,5 +16,5 @@
   },
   "include": [
     "src/**/*"
-  ]
+, "../angular-task/src/index.ts"  ]
 }
